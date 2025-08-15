@@ -95,14 +95,16 @@ Currently:
 - **College of Nigerian Pathologists National Conference** (2019)  
 
 ---
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="mailto:drtomiadaja@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
-  <a href="https://orcid.org/0000-0003-3553-3651"><img src="https://img.icons8.com/color/48/000000/orcid.png" alt="ORCID"></a>
-  <a href="https://www.fmcowo.org.ng/departments.php?din=2&fin=6"><img src="https://img.icons8.com/color/48/000000/university.png" alt="FMC OWO"></a>
-</p>
+---
 
 ---
+## 📬 Let's Connect
+- **LinkedIn:** [linkedin.com/in/tomisin-matthew-adaja-bsc-mbbs-mwacp-labmed-fmcpath-1764b876](https://www.linkedin.com/in/tomisin-matthew-adaja-bsc-mbbs-mwacp-labmed-fmcpath-1764b876/)
+- **GitHub:** [github.com/drtomiadaja](https://github.com/drtomiadaja)
+- **Email:** drtomiadaja@gmail.com
+-  **SelarBookstore:** https://selar.com/m/matthew-adaja1
+
+
+
 
 *Last updated: August 2025*
